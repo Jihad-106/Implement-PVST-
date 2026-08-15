@@ -6,7 +6,9 @@ This project demonstrates Per-VLAN Spanning Tree Plus (PVST+) using Cisco Packet
 
 ## Topology
 
-The topology contains multiple Cisco 2960 switches with redundant links to demonstrate STP/PVST+ loop prevention.
+## Topology
+
+![PVST+ Network Topology](topology.png)
 
 ## Technologies Used
 
