@@ -19,7 +19,7 @@ The topology contains multiple Cisco 2960 switches with redundant links to demon
 ## VLANs
 
 - VLAN 10
-- VLAN 10
+- VLAN 20
 
 ## Packet Tracer File
 
